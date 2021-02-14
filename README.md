@@ -13,4 +13,4 @@
 
 Run application
 
-![Run application](img/run.png "Run application")
+![Run application](img/star.png "Run application")
